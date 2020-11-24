@@ -21,10 +21,10 @@ Visit [Campus in the Time of COVID-19](hmccaffrey477.wordpress.com)
 - [10_McCaffrey_COVIDCampus_Process](/10_McCaffrey_COVIDCampus_Process.txt)
 - [11_McCaffrey_COVIDCampus_About](/11_McCaffrey_COVIDCampus_About.txt)
 - [12_McCaffrey_COVIDCampus_Flickr_Text](/12_McCaffrey_COVIDCampus_Flickr_Text.txt)
-- [Dev Report 3 Images](/Dev Report 3 Images)
-- [Dev Report 6 Images](/Dev Report 6 Images)
 - [Dev Report 3 Metadata](/dublin_core_elements_McCaffrey.xlsx)
 - [Dev Report 6 Metadata](/Dev_Report_6_dublin_core_elements_McCaffrey.xlsx)
+- Dev Report 3 Images Folder
+- Dev Report 6 Images Folder
 
 
 
