@@ -24,7 +24,7 @@ Visit [Campus in the Time of COVID-19](hmccaffrey477.wordpress.com)
 - [Dev Report 3 Images](/Dev Report 3 Images)
 - [Dev Report 6 Images](/Dev Report 6 Images)
 - [Dev Report 3 Metadata](/dublin_core_elements_McCaffrey.xlsx)
-- [Dev Report 6 Metadata](/Dev Report 6_dublin_core_elements_McCaffrey.xlsx)
+- [Dev Report 6 Metadata](/Dev_Report_6_dublin_core_elements_McCaffrey.xlsx)
 
 
 
