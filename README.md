@@ -6,6 +6,8 @@ is a digital humanities project assembled to primarily fulfill requirements for 
 
 This repository is both a sustainable and maintainable iteration of preservation for the project's text.
 
+Visit [Campus in the Time of COVID-19](hmccaffrey477.wordpress.com)
+
 #### List of Files 
 - 01_McCaffrey_COVIDCampus_Home
 - 02_McCaffrey_COVIDCampus_DH1
