@@ -9,17 +9,17 @@ This repository is both a sustainable and maintainable iteration of preservation
 Visit [Campus in the Time of COVID-19](hmccaffrey477.wordpress.com)
 
 #### List of Files 
-- 01_McCaffrey_COVIDCampus_Home
-- 02_McCaffrey_COVIDCampus_DH1
-- 03_McCaffrey_COVIDCampus_DH2
-- 04_McCaffrey_COVIDCampus_DH3
-- 05_McCaffrey_COVIDCampus_DH4
-- 06_McCaffrey_COVIDCampus_DH5
-- 07_McCaffrey_COVIDCampus_DH6
-- 08_McCaffrey_COVIDCampus_DH7
-- 09_McCaffrey_COVIDCampus_DH8
-- 10_McCaffrey_COVIDCampus_Process
-- 11_McCaffrey_COVIDCampus_About
+- [01_McCaffrey_COVIDCampus_Home](/01_McCaffrey_COVIDCampus_Home.txt)
+- [02_McCaffrey_COVIDCampus_DH1](/02_McCaffrey_COVIDCampus_DH1.txt)
+- [03_McCaffrey_COVIDCampus_DH2](/03_McCaffrey_COVIDCampus_DH2.txt)
+- [04_McCaffrey_COVIDCampus_DH3](/04_McCaffrey_COVIDCampus_DH3.txt)
+- [05_McCaffrey_COVIDCampus_DH4](/05_McCaffrey_COVIDCampus_DH4.txt)
+- [06_McCaffrey_COVIDCampus_DH5](/06_McCaffrey_COVIDCampus_DH5.txt)
+- [07_McCaffrey_COVIDCampus_DH6](/07_McCaffrey_COVIDCampus_DH6.txt)
+- [08_McCaffrey_COVIDCampus_DH7](/08_McCaffrey_COVIDCampus_DH7.txt)
+- [09_McCaffrey_COVIDCampus_DH8](/09_McCaffrey_COVIDCampus_DH8.txt)
+- [10_McCaffrey_COVIDCampus_Process](/10_McCaffrey_COVIDCampus_Process.txt)
+- [11_McCaffrey_COVIDCampus_About](/11_McCaffrey_COVIDCampus_About.txt)
 - [12_McCaffrey_COVIDCampus_Flickr_Text](/12_McCaffrey_COVIDCampus_Flickr_Text.txt)
 
 
