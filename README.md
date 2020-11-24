@@ -20,7 +20,7 @@ Visit [Campus in the Time of COVID-19](hmccaffrey477.wordpress.com)
 - 09_McCaffrey_COVIDCampus_DH8
 - 10_McCaffrey_COVIDCampus_Process
 - 11_McCaffrey_COVIDCampus_About
-- 12_McCaffrey_COVIDCampus_Flickr_Text
+- [12_McCaffrey_COVIDCampus_Flickr_Text](/12_McCaffrey_COVIDCampus_Flickr_Text.txt)
 
 
 
